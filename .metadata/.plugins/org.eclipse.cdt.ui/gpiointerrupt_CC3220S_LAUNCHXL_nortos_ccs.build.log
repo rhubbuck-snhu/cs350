@@ -1,0 +1,9 @@
+
+**** Build of configuration MCU+Image for project gpiointerrupt_CC3220S_LAUNCHXL_nortos_ccs ****
+
+"C:\\ti\\ccs1270\\ccs\\utils\\bin\\gmake" -k -j 8 all -O 
+ 
+gmake[1]: 'gpiointerrupt_CC3220S_LAUNCHXL_nortos_ccs.out' is up to date.
+gmake[1]: Nothing to be done for 'secondary-outputs'.
+
+**** Build Finished ****
